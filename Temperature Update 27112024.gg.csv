@@ -1,0 +1,17 @@
+* Texas Instruments Data Flash File
+* File created Wed Dec 04 18:20:13 2024
+*
+* Device Number 4500
+* Firmware Version 2.08
+* Build Number 50
+* Order Number 0
+*
+* bqz Device Number 4500
+* bqz Firmware Version 2.08
+* bqz Build Number 50
+*
+* Field Order: Class name, Subclass name, Parameter name, Parameter Value, Display Units
+"Settings","Configuration","Temperature Enable","09","hex"
+"Settings","Configuration","Temperature Mode","01","hex"
+"Settings","Configuration","DA Configuration","0017","hex"
+"Settings","Configuration","IT Gauging Ext","001a","hex"
