@@ -1,0 +1,30 @@
+* Texas Instruments Data Flash File
+* File created Sat Mar 23 20:53:50 2024
+*
+* Device Number 4500
+* Firmware Version 2.08
+* Build Number 50
+* Order Number 0
+*
+* bqz Device Number 4500
+* bqz Firmware Version 2.08
+* bqz Build Number 50
+*
+* Field Order: Class name, Subclass name, Parameter name, Parameter Value, Display Units
+
+"Protections","AOLD","Latch Limit","5","-"
+"Protections","AOLD","Counter Dec Delay","10","s"
+"Protections","AOLD","Recovery","5","s"
+"Protections","AOLD","Reset","15","s"
+"Protections","AOLD","Threshold","f6","hex"
+"Protections","ASCC","Latch Limit","3","-"
+"Protections","ASCC","Counter Dec Delay","10","s"
+"Protections","ASCC","Recovery","5","s"
+"Protections","ASCC","Reset","15","s"
+"Protections","ASCC","Threshold","72","hex"
+"Protections","ASCD","Latch Limit","3","-"
+"Protections","ASCD","Counter Dec Delay","10","s"
+"Protections","ASCD","Recovery","5","s"
+"Protections","ASCD","Reset","15","s"
+"Protections","ASCD","Threshold 1","72","hex"
+"Protections","ASCD","Threshold 2","e4","hex"
