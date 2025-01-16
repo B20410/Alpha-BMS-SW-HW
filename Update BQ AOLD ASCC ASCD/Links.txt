@@ -1,0 +1,11 @@
+https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/630719/bq40z50-r2-issue-with-aoldl-and-ascdl-protection-feature
+
+https://www.ti.com/lit/ug/sluubs8/sluubs8.pdf
+
+https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/1385217/bq40z50-r2-bq40z50-r5-ascdl-strange-behavior/
+
+https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/1317851/bq40z50-r2-ascc-protection-parameters
+
+https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/1111094/faq-what-are-the-differences-between-the-hardware-and-firmware-protections
+
+https://e2e.ti.com/support/power-management-group/power-management/f/power-management-forum/1078133/bq40z50-r2-aold-soh-recovery-reset-time-configuration-questions/
